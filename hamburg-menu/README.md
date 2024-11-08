@@ -34,7 +34,7 @@ Passos
 Clone o repositório:
 bash
 Copiar código
-git clone https://github.com/seu-usuario/fatfry.git
+git clone https://carleone-souza-santos.github.io/App.Hambg-master/
 cd fatfry
 
 Instale as dependências:
