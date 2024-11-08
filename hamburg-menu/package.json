@@ -1,4 +1,5 @@
 {
+   "homepage": "https://carleone-souza-santos.github.io/App.Hambg-master/",
   "name": "hamburg-menu",
   "version": "0.1.0",
   "private": true,
@@ -21,7 +22,10 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+     "predeploy": "npm run build",
+     "deploy": "gh-pages -d dist"
+
   },
   "eslintConfig": {
     "extends": [
