@@ -59,21 +59,21 @@ Abra o navegador e acesse: http://localhost:3000.
 
 bash
 
-src/
-├── components/
-│ ├── App.js # Componente principal
-│ ├── Cart.js # Carrinho de compras
-│ ├── Checkout.js # Modal de pagamento
-│ ├── MiniModal.js # Modal de opções adicionais
-│ ├── ProductList.js # Lista de produtos
-│ └── MenuDrawer.js # Filtro lateral
-├── data/
-│ └── Data.js # Dados dos produtos
-├── styles/
-│ └── GlobalStyles.js # Estilos globais
-├── assets/
-│ └── ImgRefreshment/ # Imagens de produtos
-└── index.js
+<p>src/</p>
+<p>├── components/</p>
+<p>│ ├── App.js # Componente principal</p>
+<p> ├── Cart.js # Carrinho de compras</p>
+<p>│ ├── Checkout.js # Modal de pagamento</p>
+<p>│ ├── MiniModal.js # Modal de opções adicionais</p>
+<p>│ ├── ProductList.js # Lista de produtos</p>
+<p>│ └── MenuDrawer.js # Filtro lateral</p>
+<p>├── data/</p>
+<p>│ └── Data.js # Dados dos produtos</p>
+<p>├── styles/</p>
+<p>│ └── GlobalStyles.js # Estilos globais</p>
+<p>├── assets/</p>
+<p>│ └── ImgRefreshment/ # Imagens de produtos</p>
+<p>└── index.js</p>
 
 🎯 Objetivo
 Este projeto foi criado com o objetivo de:
