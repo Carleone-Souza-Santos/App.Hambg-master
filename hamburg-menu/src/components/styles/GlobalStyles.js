@@ -9,12 +9,12 @@ const GlobalStyles = () => (
           boxSizing: 'border-box',
         },
         html: {
-          height: '100%', // Garante que o HTML ocupe 100% da altura
+          height: '100%',
         },
         body: {
-          color: 'white', // Defina a cor do texto para branco para contraste
+          color: 'white',
           margin: 0,
-          height: '100%', // Garante que o body ocupe 100% da altura da página
+          height: '100%',
           fontFamily: 'Arial, sans-serif',
         },
         h1: {
@@ -45,10 +45,10 @@ const GlobalStyles = () => (
             transform: 'scale(1.05)',
           },
         },
-        // Garantir que o layout ocupe toda a altura disponível
+
         '.MuiContainer-root': {
           minHeight: '100vh',
-          backgroundColor: 'black', // Define o fundo preto
+          backgroundColor: 'black',
           color: 'white',
         },
       }}
